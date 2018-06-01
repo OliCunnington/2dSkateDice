@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string-array name="dice_one">
+        <item>FS</item>
+        <item>BS</item>
+        <item>X</item>
+        <item>X</item>
+        <item>BS</item>
+        <item>FS</item>
+    </string-array>
+
+    <string-array name="dice_two">
+        <item>Kickflip</item>
+        <item>X</item>
+        <item>Heelflip</item>
+        <item>X</item>
+        <item>Kickflip</item>
+        <item>Heelflip</item>
+    </string-array>
+
+    <string-array name="dice_three">
+        <item>180</item>
+        <item>360</item>
+        <item>360</item>
+        <item>X</item>
+        <item>180</item>
+        <item>X</item>
+    </string-array>
+
+    <string-array name="dice_four">
+        <item>Switch</item>
+        <item>X</item>
+        <item>Fakie</item>
+        <item>Regular</item>
+        <item>X</item>
+        <item>Nollie</item>
+    </string-array>
+</resources>
